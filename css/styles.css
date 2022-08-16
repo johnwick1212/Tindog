@@ -68,6 +68,7 @@ p {
 @media (max-width: 1000px) {
     .title-image {
       position: static;
+      transform: rotate(0);
     }
 
     #title {
